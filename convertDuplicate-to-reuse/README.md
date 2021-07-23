@@ -1,4 +1,4 @@
-<h3>Sometimes, you may have xml files with duplicated lines.</h3>
+Sometimes, you may have xml files with duplicated lines.
 <br/>
 For example, 
 <br/>
